@@ -1,0 +1,289 @@
+#+TITLE: Mon site web
+#+AUTHOR: Laurent Garnier
+# pour l'exportation HTML/CSS avec Bootstrap
+# https://github.com/marsmining/ox-twbs
+* Mathématiques
+** Amazon
+   
+   À venir.
+
+   Indiquez-moi vos préférences sur [[https://t.me/polymathfreeman][Telegram]].
+   
+** Podia
+*** Niveau lycée
+**** Niveau seconde générale
+
+     1. [[https://laurentgarnier.podia.com/pratiques-mathematiques-en-2de][Pratiques mathématiques en classe de seconde]]
+	
+**** Niveau première spécialité maths
+
+     1. [[https://laurentgarnier.podia.com/pratiques-mathematiques-en-1ere][Pratiques mathématiques en classe de première]]
+     
+**** Niveau terminale spécialité maths
+
+     1. [[https://laurentgarnier.podia.com/pratiques-mathematiques-en-terminale-specialite-maths][Pratiques mathématiques en classe de terminale]]
+	
+*** Niveau supérieur
+**** CPGE 1ère année
+
+     1. [[https://laurentgarnier.podia.com/l2ptm-module-01-18-raisonnement-et-vocabulaire-ensembliste][Raisonnement et vocabulaire ensembliste]]
+     2. [[https://laurentgarnier.podia.com/l2ptm-module-02-18-calculs-algebriques][Compléments de claculs algébriques]]
+     3. [[https://laurentgarnier.podia.com/l2ptm-module-03-18-nombres-complexes-et-trigonometrie][Nombres complexes]]
+
+** Superprof
+
+   Retrouvez mon annonce sur laquelle vous pourrez voir les
+   commentaires des gens ayant déjà travaillé avec moi.
+
+   [[https://www.superprof.fr/reussissez-maths-niveau-etudes-esprit.html]]
+      
+** YouTube
+*** Niveau lycée
+**** Niveau seconde générale
+
+     Voici une playlist avec les notions enseignées en classe de
+     seconde générale.
+
+     [[https://www.youtube.com/watch?v=USYBm-gHOHA&list=PLwWStLtwGECb2x5eQD71o9vzydqd5i2Vl][SECONDE]]
+     
+**** Niveau première spécialité
+
+     Voici une playlist avec les notions enseignées en classe de
+     première spécialité maths.
+
+     [[https://www.youtube.com/watch?v=5tzRX0X4P-Q&list=PLwWStLtwGECZckYdZrR1LdTqQ0pWtzxpH][PREMIÈRES]]
+     
+**** Niveau terminale spécialité
+
+     Voici une playlist avec les notions enseignées en classe de
+     terminale spécialité maths.
+
+     [[https://www.youtube.com/watch?v=F6uK_zbyJlg&list=PLwWStLtwGECYIL4oLS2tIm25Fza5KCUZy][TERMINALES]]
+     
+**** Niveau terminale maths expertes
+
+     Dans ces playlists certaines notions sont à cheval entre le
+     programme de maths expertes et celui des CPGE 1ère année.
+     
+     1. [[https://www.youtube.com/watch?v=HZPv7050jIc&list=PLwWStLtwGECZ6Q-hQML_xSfjxqIgDQGVZ][Nombres complexes]]
+     2. [[https://www.youtube.com/watch?v=Jp5bk_cj6X8&list=PLwWStLtwGECboI6DBxwLQ1prS2M8bxyNe][Arithmétique]]
+     3. [[https://www.youtube.com/watch?v=IpajiB9zgiA&list=PLwWStLtwGECZMMyYoqrymzW3Fo2zEJmXk][Graphes et matrices]] 
+	
+*** Niveau supérieur
+**** CPGE 1ère année
+
+     1. [[https://www.youtube.com/watch?v=w_JZjg8jTmU&list=PLwWStLtwGECZBLsPRUvDpx9u1fZBf6r3w][Raisonnement et vocabulaire ensembliste]]
+     2. [[https://www.youtube.com/watch?v=o6iOkp-s0yY&list=PLwWStLtwGECYvvRMlg9w_j6hvdrp9zIbC][Compléments de calcul algébrique et trigonométrie]]
+     3. [[https://www.youtube.com/watch?v=HZPv7050jIc&list=PLwWStLtwGECZ6Q-hQML_xSfjxqIgDQGVZ][Nombres complexes]]
+     4. [[https://www.youtube.com/watch?v=q61HT8kyY-Y&list=PLwWStLtwGECbvUS9iet7BjAx3_RXb2Q0Q][Techniques fondamentales de calcul en analyse]]
+     5. [[https://www.youtube.com/watch?v=b2a2e3N3e04&list=PLwWStLtwGECZbD7Phl_dBbvU9d76Ju5P5][Nombres réels et suites numériques]]
+     6. [[https://www.youtube.com/watch?v=t2Aa8gqle9s&list=PLwWStLtwGECYW_Tfq9uMFQ-irJxevo9Zm][Limites, continuité, dérivabilité]]
+     7. [[https://www.youtube.com/watch?v=0QlttKY-mxY&list=PLwWStLtwGECZS4UsWPAKiMkRWHOnm7xKU][Analyse asymptotique]]
+     8. [[https://www.youtube.com/watch?v=Jp5bk_cj6X8&list=PLwWStLtwGECboI6DBxwLQ1prS2M8bxyNe][Arithmétique dans l'ensemble des entiers relatifs]]
+     9. [[https://www.youtube.com/watch?v=xkIo71gGBlo&list=PLwWStLtwGECamJBY8cpnguOiUgqsMgxLM][Structures algébriques]]
+     10. [[https://www.youtube.com/watch?v=bJq7OUFQgOo&list=PLwWStLtwGECZmFW1Bte1zr7Ncy-ZI-k6d][Polynômes et fractions rationnelles]]
+     11. [[https://www.youtube.com/watch?v=avwrTswUmnM&list=PLwWStLtwGECYhoh7d2xfaU449lqcPMvpl][Espaces vectoriels et applications linéaires]]
+     12. [[https://www.youtube.com/watch?v=IpajiB9zgiA&list=PLwWStLtwGECZMMyYoqrymzW3Fo2zEJmXk][Matrices]]
+     13. [[https://www.youtube.com/watch?v=yeGgHxzojMQ&list=PLwWStLtwGECbLg88kTJuiI2TjFWoLW1_c][Groupe symétrique et déterminant]]
+     14. [[https://www.youtube.com/watch?v=cyNMPtnU3ZA&list=PLwWStLtwGECZOnqnMJupYI4D_mMh4chn4][Espaces préhilbertiens réels]]
+     15. [[https://www.youtube.com/watch?v=CKVQJOuYaew&list=PLwWStLtwGECYvtUt6thAJPYHkyKp_gq0c][Intégration]]
+     16. [[https://www.youtube.com/watch?v=Eqgo4OmQGwM&list=PLwWStLtwGECa3Jq5nTbMl6NDy4FRUhdih][Séries numériques]]
+     17. [[https://www.youtube.com/watch?v=O-sySSylxGo&list=PLwWStLtwGECbgjPL7LzWg0iJ6EyopKEPT][Dénombrement]]
+     18. [[https://www.youtube.com/watch?v=iGjcEH8W98w&list=PLwWStLtwGECbO3_1LM69XofWIwyKebY4c][Probabilités]]
+
+	 
+	
+	
+**** CPGE 2ème année
+
+     1. [[https://www.youtube.com/watch?v=AizozVZdiOI&list=PLwWStLtwGECacqA2tXxTOzSCtdVBXNRgU][Algèbre linéaire]]
+     2. [[https://www.youtube.com/watch?v=6TxtPamxb2Q&list=PLwWStLtwGECakO4Himb6b-9uFiGMOGfmc][Calcul différentiel]]
+     3. [[https://www.youtube.com/watch?v=mH-6b6d1cSc&list=PLwWStLtwGECYi68DkJNEjzN0tWZLBNcvk][Lois de probabilités discrètes]]
+	
+**** Licence 3 et plus
+
+     1. [[https://www.youtube.com/watch?v=hFa5eo6FT0U&list=PLwWStLtwGECZ1YPIBHzCD3-rzFjCPWnXO][Théorie des groupes]]
+     2. [[https://www.youtube.com/watch?v=Q3vE26PguMk&list=PLwWStLtwGECaIXvnNAkRnYI7P33CC9o_B][Un peu d'analyse (de Fourier)]]
+	
+*** Témoignages d'élèves
+
+    1. [[https://www.youtube.com/watch?v=vT6x4SPXaE8&list=PLwWStLtwGECYN1CrkgE6ZO0_Fo91-lNnU][Une dizaine de témoignages d'élèves de différents niveaux]]
+       
+* Statistiques
+** Amazon
+
+   À venir.
+
+   Indiquez-moi vos préférences sur [[https://t.me/polymathfreeman][Telegram]].
+   
+** Podia
+
+   1. [[https://laurentgarnier.podia.com/kit-de-survie-probas-discretes][Kit de survie des probabilités discrètes]]
+      
+** Superprof
+
+   Retrouvez mon annonce sur laquelle vous pourrez voir les
+   commentaires des gens ayant déjà travaillé avec moi.
+
+   [[https://www.superprof.fr/professeur-mathematiques-donne-cours-statistiques-monde-google-hangout-idroo.html][Découvrez les statistiques]]
+   
+** YouTube
+
+   1. [[https://www.youtube.com/watch?v=JcVhfsMAeko&list=PLwWStLtwGECaPlqK03SrVDXcHXleVGcZo][Quelques tutoriels sur le logiciel R]]
+   2. [[https://www.youtube.com/watch?v=ab7_lBnmbyA&list=PLwWStLtwGECYCk-mGm3Ubl8B7TDJE2bVZ][Quelques rudiments de statistiques]]
+      
+* Informatique
+** Amazon
+
+   1. [[https://www.amazon.fr/Comment-devenir-autonome-Python-mois-ebook/dp/B08FRMYCZZ/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Comment+devenir+autonome+en+python+en+3+mois&qid=1628702581&sr=8-1][Comment devenir autonome en Python en 3 mois]]
+      
+** Podia
+*** C
+
+    1. [[https://laurentgarnier.podia.com/ressourc-vous-avec-le-langage-c][RessourC-vous]]
+       
+*** Comment devenir 1 vrai hacker
+
+    1. [[https://laurentgarnier.podia.com/comment-devenir-1-vrai-hacker][Formation gratuite]]
+
+*** Python
+
+    1. [[https://laurentgarnier.podia.com/comment-apprendre-1-langue-avec-python][Comment apprendre une langue avec Python]]
+    
+** Superprof
+
+   Retrouvez mon annonce sur laquelle vous pourrez voir les
+   commentaires des gens ayant déjà travaillé avec moi.
+
+   [[https://www.superprof.fr/initiez-langages-programmation-informatique-decouvrir-marche-ordinateur-web.html][Découvrez la programmation informatique]]
+   
+** YouTube
+*** C
+
+    1. [[https://www.youtube.com/watch?v=FBKwFN_W2Jk&list=PLO3S2CDkdJ9yuz3oQydDSvVDY54hdLeBY][Défi 30 jours de C]]
+       
+*** JavaScript
+
+    1. [[https://www.youtube.com/watch?v=C5u-fj9xwLc&list=PLO3S2CDkdJ9ztZWG2rqf-oXSgUWvbEVec][Quelques bases]]
+       
+* Anglais
+** Amazon
+
+   1. [[https://www.amazon.fr/Introduction-phon%C3%A9tique-anglaise-Laurent-Garnier-ebook/dp/B07CRVMBVD/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=introduction+%C3%A0+la+phon%C3%A9tique+de+l%27anglais&qid=1628702784&s=digital-text&sr=1-1][Introduction à la phonétique anglaise]]
+   2. [[https://www.amazon.fr/Comment-devenir-autonome-anglais-mois-ebook/dp/B08FHF7PDD/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Comment+devenir+autonome+en+anglais+en+3+mois&qid=1628702626&sr=8-1][Comment devenir autonome en anglais en 3 mois]]
+      
+** Podia
+
+      1. [[https://laurentgarnier.podia.com/useful-tools-to-start-learning-english][Useful Tools To Start Learning English]] 
+      2. [[https://laurentgarnier.podia.com/english-starter][English Starter]]
+      3. [[https://laurentgarnier.podia.com/practice-makes-perfect][Practice Makes Perfect]]
+      4. [[https://laurentgarnier.podia.com/introduction-a-la-phonetique-anglaise][Introduction à la phonétique anglaise]]
+      5. [[https://laurentgarnier.podia.com/comment-apprendre-1-langue-avec-python][Comment apprendre une langue avec Python]]
+	 
+** Superprof
+
+   Retrouvez mon annonce sur laquelle vous pourrez voir les
+   commentaires des gens ayant déjà travaillé avec moi.
+
+   [[https://www.superprof.fr/gagnez-confiance-conversations-anglais-concret-discussions-via-web.html][Gagnez en confiance dans vos conversations]]
+   
+** YouTube
+
+   1. [[https://youtube.com/playlist?list=PLfKvL-VUSKAk3DSnWEQmMR2MLHTj4aUzw][English Lectures]]
+   2. [[https://youtube.com/playlist?list=PLfKvL-VUSKAnf4oZzkI3q24X4FJrGzcGr][30 façons d'apprendre l'anglais]]
+   3. [[https://youtube.com/playlist?list=PLfKvL-VUSKAlBdPspFuupgomSU30sLhkj][Phonetics]]      
+      
+* Français
+** Amazon
+
+   1. [[https://www.amazon.fr/Comment-devenir-autonome-fran%C3%A7ais-mois-ebook/dp/B08FLBQHCL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Comment+devenir+autonome+en+fran%C3%A7ais+en+3+mois&qid=1628702667&sr=8-1][Comment devenir autonome en français en 3 mois]]
+      
+** Podia
+
+   1. [[https://laurentgarnier.podia.com/progressez-en-francais-avec-la-technique-des-5-etapes][Progressez en français en 5 étapes]]
+   2. [[https://laurentgarnier.podia.com/le-kit-de-survie-du-francophile][Le kit de survie du francophile]]
+      
+** Superprof
+
+   Retrouvez mon annonce sur laquelle vous pourrez voir les
+   commentaires des gens ayant déjà travaillé avec moi.
+
+   [[https://www.superprof.fr/gagnez-confiance-connaissance-langue-francaise-discussions-via-web-traces-ecrites.html][Gagnez en confiance dans votre connaissance de la langue]]
+   
+** YouTube
+*** If you speak English check these playlists out
+
+    1. [[https://youtube.com/playlist?list=PLfKvL-VUSKAmWy-ZYHqILaQ1ONPVbdVys][Just for listening and speaking]]
+    2. [[https://youtube.com/playlist?list=PLfKvL-VUSKAm_i4lM-MG2lyslGnSyDfjC][For listening, reading and speaking]]
+    3. [[https://youtube.com/playlist?list=PLfKvL-VUSKAmgpfHWMjLjWZJoJLQP1MA-][Audiobooks]]
+       
+* Russe
+** Amazon
+
+   1. [[https://www.amazon.fr/Comment-devenir-autonome-russe-mois-ebook/dp/B08FQHH6VG/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Comment+devenir+autonome+en+russe+en+3+mois&qid=1628702710&sr=8-1][Comment devenir autonome en Russe en 3 mois]]
+      
+** Podia
+
+   1. [[https://laurentgarnier.podia.com/russian-survival-kit][Russian Survival Kit]]
+      
+** Superprof
+
+   Ce n'est pas vraiment à l'ordre du jour mais si vous souhaitez
+   apprendre le russe je peux vous mettre en contact avec des russes
+   ou des ukrainiennes natives.
+
+   Certaines parlent anglais d'autres parlent également le français.
+
+   Contactez-moi sur [[https://t.me/polymathfreeman][Telegram]] pour plus de détails.
+   
+** YouTube
+
+   1. [[https://youtube.com/playlist?list=PLfKvL-VUSKAk0YrJ3rV6cBj-w6rNCeOJB][Learn Russian With Me]]
+      
+* Autres langues
+** Amazon
+
+   À venir.
+
+   Indiquez-moi vos préférences sur [[https://t.me/polymathfreeman][Telegram]].
+   
+** Podia
+
+   1. [[https://laurentgarnier.podia.com/kits-de-survie-pour-les-langues][Kit de survie pour les langues]]
+      
+** Superprof
+
+   Ce n'est pas à l'ordre du jour et en ce moment je ne suis pas
+   vraiment en relation avec mes contacts polyglottes autres que
+   russophones ou anglophones.
+
+   Contactez-moi sur [[https://t.me/polymathfreeman][Telegram]] si vous avez un groupe intéressé par une
+   langue en particulier.
+   
+** YouTube
+
+   1. [[https://youtube.com/playlist?list=PLfKvL-VUSKAnkBk88BAb3oq1MlGVnhwcY][Babel Project]]
+
+* Cryptos
+** Amazon
+
+   À venir.
+
+   Indiquez-moi vos préférences sur [[https://t.me/polymathfreeman][Telegram]].
+   
+** Podia
+
+   1. [[https://laurentgarnier.podia.com/decouvrez-l-univers-des-crypto-sans-devoiler-vos-donnees][Découvrez l'univers des cryptos sans KYC]]
+   2. [[https://laurentgarnier.podia.com/30-jours-30-programmes-d-affiliation-100-cryptos][30 jours 30 programmes d'affiliation 100% cryptos]]
+   3. [[https://laurentgarnier.podia.com/etudiez-les-crypto-monnaies][Etudiez le fonctionnement des cryptos]]
+   4. [[https://laurentgarnier.podia.com/gagnez-25-usd-legalement-en-crypto-monnaie][Gagnez 25 USD légalement en cryptos]]
+      
+** Superprof
+
+   À venir.
+
+   Veuillez m'indiquer vos préférences sur [[https://t.me/polymathfreeman][Telegram]].
+   
+** YouTube   
+
+   1. [[https://www.youtube.com/watch?v=GvoQbfEGIgI&list=PLFubDDkqAD9lxusbJtZivDedTXgFsbw-n][Le podcast des cryptos]]
